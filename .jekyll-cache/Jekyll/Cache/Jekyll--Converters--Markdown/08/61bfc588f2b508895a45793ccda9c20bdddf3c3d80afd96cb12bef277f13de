@@ -1,0 +1,5 @@
+I"�<p>Bu yazıda Windows’un son dönemde aldığı güncelleme ile gelen wsl2’den (Windows Subsystem for Linux) faydalanarak Ubuntu 20.04 üzerinde docker ile .net core uygulamasını çalıştırmayı anlatacağım. Bunun yanında Wsl2’de Visual Studio Code çalıştırmak, File Explorer ile Ubuntu’da gezinmek gibi ek özelliklere değineceğim.</p>
+
+<p>WSL2 için öncelikle</p>
+
+:ET
