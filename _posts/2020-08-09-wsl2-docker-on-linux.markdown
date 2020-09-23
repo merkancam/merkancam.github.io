@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WSL2 ile dockerized .net core uygulaması çalıştırmak 
-date: 2020-05-30 17:15:00 +0300
+date: 2025-05-30 17:15:00 +0300
 description: 
 img:  windowsAndUbuntu.png
 tags: [WSL2,Docker,dotnet,linux] # add tag
